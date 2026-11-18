@@ -1,8 +1,8 @@
 # GTA VI Launch-Day Twitch CCU Forecast
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-gta6--twitch--ccu--forecast--01-blue)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/irwan11795/makefun-gta6-twitch-ccu-forecast-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/irwan11795/makefun-gta6-twitch-ccu-forecast-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
 
 Forecasts hour-by-hour Twitch concurrent viewers in the **Grand Theft Auto VI**
 category on launch day (2026-11-19 UTC), hours 2–24, as five quantiles
@@ -60,3 +60,7 @@ rows (hours 2–24). Runtime ~0.15 s per case, output ~1.5 KB per case.
 
 - `main.py` — the whole entry (model + I/O), self-contained.
 - `LICENSE` — MIT.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=2wht1jqa&utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
